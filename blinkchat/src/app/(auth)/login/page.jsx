@@ -7,7 +7,6 @@ import axios from "axios";
 import { useRouter } from "next/navigation";
 import toast from "react-hot-toast";
 import { ChatContext } from "@/context/ChatContext";
-import { signIn } from "next-auth/react";
 
 const Longin = () => {
   const { connectToSocket, socket } = useContext(ChatContext);
