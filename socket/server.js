@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 8000;
 
 const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: "https://blink-chat-pi.vercel.app/",
   },
 });
 

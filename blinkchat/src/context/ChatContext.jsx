@@ -25,7 +25,7 @@ export const ChatProvider = ({ children }) => {
 
   const connectToSocket = (userId) => {
     if (socket?.connected) return;
-    const newSocket = io("http://localhost:8000", {
+    const newSocket = io("https://blinkchat-afxv.onrender.com", {
       autoConnect: false,
     });
 
