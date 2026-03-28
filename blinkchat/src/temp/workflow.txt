@@ -1,0 +1,15 @@
+login signup frontend page
+set up mongo user model
+set up mongo db connectDb() function
+set up logic for auth login signup and logout ----> undergo incomplete signup
+
+
+next implement this mf
+
+set google oauth using nextauth ---> hold end me dekhegen iss bkl koo 
+set up mongo message model ----> ye karna ha
+socketio ka scene dekh bc dimag ki mother sister one kardi bc
+make chat ui
+left sidebar - contacts and chat profile logout button
+right side - main chat ui
+set up socket.io 
