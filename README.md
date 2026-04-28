@@ -17,9 +17,35 @@ BlinkChat is a real-time chat application built using the MERN stack with Socket
 - Database: MongoDB  
 - Real-time: Socket.io  
 
-## Installation
+## Setup Instructions
 
-```bash
+### 1️. Clone the repository
+
+```
 git clone https://github.com/sparsh1606/BlinkChat.git
-cd blinkchat
+cd task-manager
+```
+
+---
+
+### 2️. Backend Setup
+
+```
+cd Backend
 npm install
+node app.js
+```
+
+
+---
+
+### 3️. Frontend Setup
+
+```
+cd Frontend
+npm install
+npm run dev
+```
+
+
+---
