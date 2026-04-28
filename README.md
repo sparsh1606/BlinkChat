@@ -23,15 +23,15 @@ BlinkChat is a real-time chat application built using the MERN stack with Socket
 
 ```
 git clone https://github.com/sparsh1606/BlinkChat.git
-cd task-manager
+cd blink-chat
 ```
 
 ---
 
-### 2️. Backend Setup
+### 2️. Socket Setup
 
 ```
-cd Backend
+cd socket
 npm install
 node app.js
 ```
@@ -39,10 +39,10 @@ node app.js
 
 ---
 
-### 3️. Frontend Setup
+### 3️. NextJs Setup
 
 ```
-cd Frontend
+cd blinkchat
 npm install
 npm run dev
 ```
